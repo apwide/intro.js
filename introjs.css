@@ -19,7 +19,7 @@
        -o-transition: all 0.3s ease-out;
           transition: all 0.3s ease-out;
 }
-
+/* Breaks aui dialogs
 .introjs-fixParent {
   z-index: auto !important;
   opacity: 1.0 !important;
@@ -29,6 +29,7 @@
        -o-transform: none !important;
           transform: none !important;
 }
+*/
 
 .introjs-showElement,
 tr.introjs-showElement > td,
